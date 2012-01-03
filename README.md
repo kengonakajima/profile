@@ -17,6 +17,8 @@ facebook <a href="http://www.facebook.com/kengo.nakajima">kengonakajima timeline
  - [P] プログラミング/ソフトウェア実装
  - [他] その他
 
+History
+====
 
  1. [P] [MMO] 1996 LIFESTORM (Javaアプレット版) 日本システムサプライ
 
