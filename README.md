@@ -7,7 +7,6 @@ github <a href="https://github.com/kengonakajima">https://github.com/kengonakaji
 facebook <a href="http://www.facebook.com/kengo.nakajima">kengonakajima timeline</a><br>
 
 
-- - - -
 
 
 凡例
@@ -21,7 +20,7 @@ facebook <a href="http://www.facebook.com/kengo.nakajima">kengonakajima timeline
 
  1. [P] [MMO] 1996 LIFESTORM (Javaアプレット版) 日本システムサプライ
 
- <img src="https://github.com/kengonakajima/profile/raw/master/images/javalifestorm.jpg">
+ <img src="https://raw.github.com/kengonakajima/profile/master/images/javalifestorm.png">
  
 
  1. [P] [MO+MMO] 1997 Lifestorm (Windows版) 日本システムサプライ
