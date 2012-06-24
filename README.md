@@ -2,11 +2,10 @@
 ====
 
 
-twitter <a href="http://twitter.com/ringo">@ringo</a> <br>
+Twitter <a href="http://twitter.com/ringo">@ringo</a> <br>
 github <a href="https://github.com/kengonakajima">https://github.com/kengonakajima</a><br>
-facebook <a href="http://www.facebook.com/kengo.nakajima">kengonakajima timeline</a><br>
-
-
+Facebook <a href="http://www.facebook.com/kengo.nakajima">kengonakajima timeline</a><br>
+Blog <a href="https://github.com/kengonakajima/blog">github.com/kengonakajima/blog </a><br>
 
 
 凡例
@@ -108,3 +107,14 @@ facebook <a href="http://www.facebook.com/kengo.nakajima">kengonakajima timeline
  1. [P][MMO] 2011/09/10 2032 Diver City (ゲームポット、チュンソフト)
 
  プロトタイプ作成、通信ミドルウェア、地形生成エンジン、ストレージ全般、管理ツール
+
+短いプロフィール
+====
+
+「オンラインゲームを支える技術」での200文字プロフィール     小学生の時からゲームプログラミングを始め、大学入学後ゲーム制作を開始。 (34)    96年、世界初のJavaアプレットを用いたMMORPGを制作し、 (32)    98年にはその続編LifestormシリーズをWindowsで発売、ヒット。 (38) = (102)    2001年にはオンラインゲーム用ミドルウェアVCEを開発し、(29)    独自に開発した"gumonji"を含めて約50社で利用される。 (31) = (60)    現在は2児の父として仕事と子育てに明け暮れる日々を送る。     (28)
+2012年8月、IGF用のプロフィール
+    小学生の時からゲームプログラミングを始め、大学入学後ゲーム制作を開始。     96年、世界初のJavaアプレットを用いたMMORPGを制作し、     98年にはその続編LifestormシリーズをWindowsで発売、ヒット。     2001年にはオンラインゲーム用ミドルウェアVCEを開発し、約50社で利用されている。    現在はMMOG制作と2児の子育てに明け暮れる日々を送っている。
+    詳しいプロフィールを https://github.com/kengonakajima/profile で公開している。
+        
+
+    
