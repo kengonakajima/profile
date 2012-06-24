@@ -16,27 +16,29 @@ Blog <a href="https://github.com/kengonakajima/blog">github.com/kengonakajima/bl
  - [P] プログラミング/ソフトウェア実装
  - [他] その他
 
+History
+====
 
  1. [P] [MMO] 1996 LIFESTORM (Javaアプレット版) 日本システムサプライ
 
- <img src="https://raw.github.com/kengonakajima/profile/master/images/javalifestorm.png">
+ <img width=600 src="https://raw.github.com/kengonakajima/profile/master/images/javalifestorm.png">
  
 
  1. [P] [MO+MMO] 1997 Lifestorm (Windows版) 日本システムサプライ
 
- <img src="https://github.com/kengonakajima/profile/raw/master/images/lifestorm.jpg">
+ <img width=600 src="https://raw.github.com/kengonakajima/profile/master/images/lifestorm.png">
 
 
  1. [筆] 1997/04 Javaゲームプログラミング(softbank books)
 
  http://www.amazon.co.jp/dp/4797302291
 
- <img src="https://github.com/kengonakajima/profile/raw/master/images/javabook.jpg">
+ <img width=130 src="https://raw.github.com/kengonakajima/profile/master/images/javabook.png">
 
 
  1. [P] [MMO] 1998 Lifestorm2 (Windows)
 
- <img src="https://github.com/kengonakajima/profile/raw/master/images/lifestorm2.jpg">
+ <img width=600 src="https://raw.github.com/kengonakajima/profile/master/images/lifestorm2.png">
 
 
  1. [役] 2000/05 コミュニティーエンジン株式会社  代表取締役
@@ -45,7 +47,7 @@ Blog <a href="https://github.com/kengonakajima/blog">github.com/kengonakajima/bl
 
  http://classic-web.archive.org/web/20010202020600/http://www.vce-lab.net/
 
- <img src="https://github.com/kengonakajima/profile/raw/master/images/vce.jpg">
+ <img width=110 src="https://raw.github.com/kengonakajima/profile/master/images/vce.png">
 
 
  1. [P] 2002/02 MMOG用ミドルウェア “mm-suite” コミュニティーエンジン
@@ -60,7 +62,8 @@ Blog <a href="https://github.com/kengonakajima/blog">github.com/kengonakajima/bl
 
  http://replay.web.archive.org/20040805002540/http://gumonji.net/
 
- <img src="https://github.com/kengonakajima/profile/raw/master/images/gumonji.jpg">
+ <img width=400 src="https://raw.github.com/kengonakajima/profile/master/images/gumonji.png">
+ <img width=400 src="https://raw.github.com/kengonakajima/profile/master/images/gumonjilarge.png">
 
 
  1. [P] [Web] 2005/09 XM支援ツールGalapagos(IPA未踏ソフトウェア創造事業・スーパークリエイタ)
@@ -91,7 +94,7 @@ Blog <a href="https://github.com/kengonakajima/blog">github.com/kengonakajima/bl
 
  http://game.watch.impress.co.jp/docs/news/20100524_369209.html
 
- <img src="https://github.com/kengonakajima/profile/raw/master/images/geotrion.jpg">
+ <img width=240 src="https://raw.github.com/kengonakajima/profile/master/images/itriangle.png">
 
 
  1. [役] 2011/02 CEDEC2011 プログラムワーキンググループ オンライン担当
@@ -102,7 +105,7 @@ Blog <a href="https://github.com/kengonakajima/blog">github.com/kengonakajima/bl
 
  http://gihyo.jp/book/2011/978-4-7741-4580-8
 
- <img src="https://github.com/kengonakajima/profile/raw/master/images/onlinegamebook.jpg">
+ <img width=120 src="https://raw.github.com/kengonakajima/profile/master/images/onlinegamebook.png">
 
  1. [P][MMO] 2011/09/10 2032 Diver City (ゲームポット、チュンソフト)
 
