@@ -111,6 +111,12 @@ History
 
  プロトタイプ作成、通信ミドルウェア、地形生成エンジン、ストレージ全般、管理ツール
 
+ 1. [談] 2012/08/08 特濃! ゲーム開発塾 2012@盛岡
+
+ ゲームプログラミング・ワークショップ  https://github.com/kengonajima/blog/blob/makaster/articles/copy_smb.md  
+
+
+
 短いプロフィール
 ====
 
