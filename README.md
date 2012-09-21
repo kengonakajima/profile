@@ -116,6 +116,9 @@ History
  ゲームプログラミング・ワークショップ  https://github.com/kengonajima/blog/blob/makaster/articles/copy_smb.md  
 
 
+ 1. [P][MMO] 2012/08 ドラゴンクエストX (スクウェアエニックス)
+
+ ネットワークミドルウェア(VCE,OpenSSL)関連プログラミング, パケット解析など http://www.dqx.jp/
 
 短いプロフィール
 ====
