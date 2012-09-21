@@ -116,6 +116,10 @@ History
  ゲームプログラミング・ワークショップ  https://github.com/kengonakajima/blog/blob/master/articles/copy_smb.md  
 
 
+ 1. [他][コンサル] 2012/07 Max Anarchy (プラチナゲームス)
+
+ PS3/360 P2P対戦におけるUDPホールパンチ関連の問題解決(パケット解析) http://maxanarchy.jp/
+ 
  1. [P][MMO] 2012/08 ドラゴンクエストX (スクウェアエニックス)
 
  ネットワークミドルウェア(VCE,OpenSSL)関連プログラミング, パケット解析など http://www.dqx.jp/
