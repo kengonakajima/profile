@@ -124,11 +124,20 @@ History
 
  ネットワークミドルウェア(VCE,OpenSSL)関連プログラミング, パケット解析など http://www.dqx.jp/
 
- 1. [筆] 2012/10 ゲームクリエイターが知るべき97のこと http://www.amazon.co.jp/dp/4873115701
+ 1. [筆] 2012/10 ゲームクリエイターが知るべき97のこと
+
+ http://www.amazon.co.jp/dp/4873115701
 
  寄稿 「待ち時間を無くせ」「動的言語を併用しよう」　
  
+ 1. [談] 2013/05 オンラインゲーム技術入門@gloops社
 
+ http://www.slideshare.net/kengonakajima1/onlinegame-entrylevel-201305
+ 
+ デモゲーム: http://kengonakajima.github.io/delay/game/index.html
+
+
+ 
 短いプロフィール
 ====
 
