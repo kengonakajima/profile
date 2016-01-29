@@ -14,6 +14,7 @@ Blog <a href="https://github.com/kengonakajima/blog">github.com/kengonakajima/bl
  - [筆] 執筆
  - [談] インタビュー、パネルディスカッション、シンポジウム、講演など
  - [P] プログラミング/ソフトウェア実装
+ - [GD] ゲームデザイン
  - [他] その他
 
 History
@@ -136,7 +137,10 @@ History
  
  デモゲーム: http://kengonakajima.github.io/delay/game/index.html
 
+ 1. [P][GD] PSVita AirshipQ
 
+ http://airshipq.com/
+ 
  
 短いプロフィール
 ====
