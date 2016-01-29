@@ -137,7 +137,7 @@ History
  
  デモゲーム: http://kengonakajima.github.io/delay/game/index.html
 
- 1. [P][GD] PSVita AirshipQ
+ 1. [P][GD] 2015/12 PSVita AirshipQ
 
  http://airshipq.com/
  
