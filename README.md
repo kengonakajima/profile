@@ -137,9 +137,18 @@ History
  
  デモゲーム: http://kengonakajima.github.io/delay/game/index.html
 
+ 1. [P][役] 2015/04 シンラ・テクノロジー　クラウドゲーム開発キット"CCDK"　および "Space Sweeper"
+
+ http://www.4gamer.net/games/299/G029991/20150428062/
+ http://www.inside-games.jp/article/2014/12/17/83512.html
+ 
  1. [P][GD] 2015/12 PSVita AirshipQ
 
  http://airshipq.com/
+
+ 1. [役] 2016/06 株式会社モノビット CTO
+
+ http://www.4gamer.net/games/999/G999905/20160601141/
  
  
 短いプロフィール
