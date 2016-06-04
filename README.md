@@ -150,6 +150,8 @@ History
 
  http://airshipq.com/
 
+ http://www.jp.playstation.com/software/title/jp0178pcsg00461_001000000000000000.html
+ 
  1. [役] 2016/06 株式会社モノビット CTO
 
  http://www.4gamer.net/games/999/G999905/20160601141/
