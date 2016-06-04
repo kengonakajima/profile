@@ -140,7 +140,11 @@ History
  1. [P][役] 2015/04 シンラ・テクノロジー　クラウドゲーム開発キット"CCDK"　および "Space Sweeper"
 
  http://www.4gamer.net/games/299/G029991/20150428062/
+ 
  http://www.inside-games.jp/article/2014/12/17/83512.html
+
+ <img width=480 src="https://raw.github.com/kengonakajima/profile/master/images/ss_ss.png">
+                       
  
  1. [P][GD] 2015/12 PSVita AirshipQ
 
