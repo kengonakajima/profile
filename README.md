@@ -156,7 +156,11 @@ History
 
  http://www.4gamer.net/games/999/G999905/20160601141/
  
- 
+ 1. [筆] 「深セン I/O」エレキ技術者の仕事をゲームに 日経テクノロジーOnline
+
+ http://techon.nikkeibp.co.jp/atcl/column/15/102000074/111500005/?rt=nocnt
+
+
 短いプロフィール
 ====
     
