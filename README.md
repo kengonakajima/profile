@@ -230,5 +230,13 @@ CEDEC 2015での300文字プロフィール
 仕事歴: https://github.com/kengonakajima/profile
 ~~~
 
+2018年3月短い版
+~~~
+マルチプレイゲームの実装を専門とするプログラマー。
+著書『オンラインゲームを支える技術』
+（2011、技術評論社）。㈱モノビット CTO。
+仕事歴：http://goo.gl/eMtEQ
+~~~
+
 
 <img src="images/face.jpg" width=140>
