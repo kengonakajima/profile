@@ -239,4 +239,16 @@ CEDEC 2015での300文字プロフィール
 ~~~
 
 
-<img src="images/face.jpg" width=140>
+写真
+
+<img src="images/face.jpg" width=140><BR>
+
+<BR>
+gumonjiでのringo
+
+<img src="images/gumonji_ringo.jpg"><BR>
+
+<BR>
+自分でモデリングしたキャラ
+
+<img src="images/rana_standing.png"><BR>
