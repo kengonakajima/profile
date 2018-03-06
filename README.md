@@ -249,6 +249,6 @@ gumonjiでのringo
 <img src="images/gumonji_ringo.jpg"><BR>
 
 <BR>
-自分でモデリングしたキャラ
+自分でモデリングしたキャラ(from Rana)
 
 <img src="images/rana_standing.png"><BR>
