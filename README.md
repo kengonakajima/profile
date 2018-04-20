@@ -160,6 +160,9 @@ History
 
  http://techon.nikkeibp.co.jp/atcl/column/15/102000074/111500005/?rt=nocnt
 
+ 1. [筆] 記憶に刻むあのコード "車輪を小さくして再発明する" Web+DB Press
+
+ http://gihyo.jp/book/2018/978-4-7741-9686-2#toc
 
 短いプロフィール
 ====
