@@ -165,6 +165,7 @@ History
  http://gihyo.jp/book/2018/978-4-7741-9686-2#toc
 
  1. [筆] 2018/09 クラウドゲームをつくる技術 
+ 
  https://www.amazon.co.jp/gp/product/4774199419
  
 短いプロフィール
