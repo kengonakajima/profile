@@ -167,6 +167,8 @@ History
  1. [筆] 2018/09 クラウドゲームをつくる技術 
  
  https://www.amazon.co.jp/gp/product/4774199419
+
+ <img width=480 src="https://raw.github.com/kengonakajima/profile/master/images/mkcg.jpg">
  
 短いプロフィール
 ====
