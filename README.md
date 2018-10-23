@@ -168,7 +168,7 @@ History
  
  https://www.amazon.co.jp/gp/product/4774199419
 
- <img width=480 src="https://raw.github.com/kengonakajima/profile/master/images/mkcg.jpg">
+ <img width=200 src="https://raw.github.com/kengonakajima/profile/master/images/mkcg.jpg">
  
 短いプロフィール
 ====
