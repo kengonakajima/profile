@@ -102,7 +102,7 @@ History
 
  http://cedec.cesa.or.jp/2011/board/index.html
 
- 1. [筆] 2011/03 オンラインゲームを支える技術 (技術評論社, CEDEC2011著述賞)
+ 1. [筆][P] 2011/03 オンラインゲームを支える技術 (技術評論社, CEDEC2011著述賞)
 
  http://gihyo.jp/book/2011/978-4-7741-4580-8
 
@@ -164,7 +164,7 @@ History
 
  http://gihyo.jp/book/2018/978-4-7741-9686-2#toc
 
- 1. [筆] 2018/09 クラウドゲームをつくる技術 
+ 1. [筆][P] 2018/09 クラウドゲームをつくる技術 
  
  https://www.amazon.co.jp/gp/product/4774199419
 
