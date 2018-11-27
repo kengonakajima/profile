@@ -169,7 +169,12 @@ History
  https://www.amazon.co.jp/gp/product/4774199419
 
  <img width=200 src="https://raw.github.com/kengonakajima/profile/master/images/mkcg.jpg">
- 
+
+ 1. [談] 2018/11 特濃！ゲーム開発塾　三陸直行便
+
+ http://www.pref.iwate.jp/sangyoushinkou/digital/069112.html
+
+
 短いプロフィール
 ====
     
