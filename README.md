@@ -174,6 +174,13 @@ History
 
  http://www.pref.iwate.jp/sangyoushinkou/digital/069112.html
 
+ 1. [談] 2019/09 CEDEC 2019 "MRU : Monobit Reliable UDP"
+ 
+ https://www.slideshare.net/yhonjo/mru-monobit-reliable-udp-5g-179031080
+ 
+ 1. [談] 2019/10 サムザップ テックナイトvol.7 "ゲームの通信をつくる仕事はどうなるのだろう？"
+
+ https://www.slideshare.net/kengonakajima1/ss-180868994
 
 短いプロフィール
 ====
