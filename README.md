@@ -181,6 +181,8 @@ History
  1. [談] 2019/10 サムザップ テックナイトvol.7 "ゲームの通信をつくる仕事はどうなるのだろう？"
 
  https://www.slideshare.net/kengonakajima1/ss-180868994
+ 
+ 1. [役] 2020/01 monoAI technology 取締役CTO (社名変更により)
 
 短いプロフィール
 ====
