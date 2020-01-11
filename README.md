@@ -182,7 +182,9 @@ History
 
  https://www.slideshare.net/kengonakajima1/ss-180868994
  
- 1. [役] 2020/01 monoAI technology 取締役CTO (社名変更により)
+ 1. [役] 2020/01 monoAI technology 取締役CTO
+
+ 会社名が変更されたことにより。
 
  1. [P,GD] Space Sweeper (Mac,Windows)
 
