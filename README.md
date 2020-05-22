@@ -106,7 +106,7 @@ History
 
  http://gihyo.jp/book/2011/978-4-7741-4580-8
 
- <img width=120 src="https://raw.github.com/kengonakajima/profile/master/images/onlinegamebook.png">
+ <img width=120 src="https://raw.github.com/kengonakajima/profile/master/images/onlinegamebook.jpg">
 
  1. [P][MMO] 2011/09/10 2032 Diver City (ゲームポット、チュンソフト)
 
