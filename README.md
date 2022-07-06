@@ -116,7 +116,10 @@ History
 
  ゲームプログラミング・ワークショップ  https://github.com/kengonakajima/blog/blob/master/articles/copy_smb.md  
 
+ 1. [P][GD] 2012/05 お宝発掘掘りキング (スパイク・チュンソフト)
 
+https://www.4gamer.net/games/139/G013998/
+ 
  1. [他][コンサル] 2012/07 Max Anarchy (プラチナゲームス)
 
  PS3/360 P2P対戦におけるUDPホールパンチ関連の問題解決(パケット解析) http://maxanarchy.jp/
