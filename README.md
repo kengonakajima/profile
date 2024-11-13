@@ -193,6 +193,15 @@ https://www.4gamer.net/games/139/G013998/
 
  https://kknn.itch.io/spsw
 
+ 1. [筆] 図解まるわかり VR・AR・MRのしくみ (monoAI technology,翔泳社)
+
+ <img src="images/vrarmr.png" width=200>
+ 
+ https://www.amazon.co.jp/dp/4798185809
+ 書籍の元となったプロトタイプ原稿を執筆
+
+
+
 短いプロフィール
 ====
     
