@@ -22,24 +22,24 @@ History
 
  1. [P] [MMO] 1996 LIFESTORM (Javaアプレット版) 日本システムサプライ
 
- <img width=600 src="https://raw.github.com/kengonakajima/profile/master/images/javalifestorm.png">
+ <img width=600 src="images/javalifestorm.png">
  
 
  1. [P] [MO+MMO] 1997 Lifestorm (Windows版) 日本システムサプライ
 
- <img width=600 src="https://raw.github.com/kengonakajima/profile/master/images/lifestorm.png">
+ <img width=600 src="images/lifestorm.png">
 
 
  1. [筆] 1997/04 Javaゲームプログラミング(softbank books)
 
  http://www.amazon.co.jp/dp/4797302291
 
- <img width=130 src="https://raw.github.com/kengonakajima/profile/master/images/javabook.png">
+ <img width=130 src="images/javabook.png">
 
 
  1. [P] [MMO] 1998 Lifestorm2 (Windows)
 
- <img width=600 src="https://raw.github.com/kengonakajima/profile/master/images/lifestorm2.png">
+ <img width=600 src="images/lifestorm2.png">
 
 
  1. [役] 2000/05 コミュニティーエンジン株式会社  代表取締役
@@ -48,7 +48,7 @@ History
 
  http://classic-web.archive.org/web/20010202020600/http://www.vce-lab.net/
 
- <img width=110 src="https://raw.github.com/kengonakajima/profile/master/images/vce.png">
+ <img width=110 src="images/vce.png">
 
 
  1. [P] 2002/02 MMOG用ミドルウェア “mm-suite” コミュニティーエンジン
@@ -63,8 +63,8 @@ History
 
  http://replay.web.archive.org/20040805002540/http://gumonji.net/
 
- <img width=400 src="https://raw.github.com/kengonakajima/profile/master/images/gumonji.png">
- <img width=400 src="https://raw.github.com/kengonakajima/profile/master/images/gumonjilarge.png">
+ <img width=400 src="images/gumonji.png">
+ <img width=400 src="images/gumonjilarge.png">
 
 
  1. [P] [Web] 2005/09 XM支援ツールGalapagos(IPA未踏ソフトウェア創造事業・スーパークリエイタ)
@@ -95,7 +95,7 @@ History
 
  http://game.watch.impress.co.jp/docs/news/20100524_369209.html
 
- <img width=240 src="https://raw.github.com/kengonakajima/profile/master/images/itriangle.png">
+ <img width=240 src="images/itriangle.png">
 
 
  1. [役] 2011/02 CEDEC2011 プログラムワーキンググループ オンライン担当
@@ -106,7 +106,7 @@ History
 
  http://gihyo.jp/book/2011/978-4-7741-4580-8
 
- <img width=120 src="https://raw.github.com/kengonakajima/profile/master/images/onlinegamebook.jpg">
+ <img width=120 src="images/onlinegamebook.jpg">
 
  1. [P][MMO] 2011/09/10 2032 Diver City (ゲームポット、チュンソフト)
 
@@ -146,7 +146,7 @@ https://www.4gamer.net/games/139/G013998/
  
  http://www.inside-games.jp/article/2014/12/17/83512.html
 
- <img width=480 src="https://raw.github.com/kengonakajima/profile/master/images/ss_ss.png">
+ <img width=480 src="images/ss_ss.png">
                        
  
  1. [P][GD] 2015/12 PSVita AirshipQ
@@ -154,6 +154,9 @@ https://www.4gamer.net/games/139/G013998/
  http://airshipq.com/
 
  http://www.jp.playstation.com/software/title/jp0178pcsg00461_001000000000000000.html
+
+<img src="images/airshipq.png">
+
  
  1. [役] 2016/06 株式会社モノビット CTO
 
